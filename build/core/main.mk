@@ -1,2 +1,2 @@
-# Include LineageOS versions
-include $(TOPDIR)vendor/lineage/build/core/main_version.mk
+# Include MiniUI versions
+include $(TOPDIR)vendor/mini/build/core/main_version.mk
